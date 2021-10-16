@@ -12,7 +12,7 @@ class Test_001_Login:
 
     logger = LogGen.loggen()
 
-
+#test
     @pytest.mark.regression
     def test_homePageTitle(self, setup):
         self.logger.info("**********test_homePageTitle************")
