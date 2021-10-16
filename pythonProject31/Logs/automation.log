@@ -1,0 +1,1070 @@
+2021-10-05 17:41:08,380 - root - INFO - This is INFO Log
+2021-10-05 17:41:17,928 - root - INFO - **********test_homePageTitle************
+2021-10-05 17:41:17,929 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 17:41:27,884 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 17:41:32,918 - root - INFO - **********Verifying Login Test************
+2021-10-05 17:41:56,199 - root - INFO - **********Verifying Login Test Passed************
+2021-10-05 17:43:41,700 - root - INFO - This is INFO Log
+2021-10-05 17:43:45,592 - root - INFO - **********test_homePageTitle************
+2021-10-05 17:43:45,620 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 17:43:52,010 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 17:43:54,363 - root - INFO - **********Verifying Login Test************
+2021-10-05 17:44:05,936 - root - INFO - **********Verifying Login Test Passed************
+2021-10-05 17:45:19,110 - root - INFO - This is INFO Log
+2021-10-05 17:45:21,330 - root - INFO - **********test_homePageTitle************
+2021-10-05 17:45:21,331 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 17:45:27,272 - root - ERROR - **********HomePageTitleTest is Failed************
+2021-10-05 17:45:30,513 - root - INFO - **********Verifying Login Test************
+2021-10-05 17:46:48,960 - root - INFO - This is INFO Log
+2021-10-05 17:46:51,197 - root - INFO - **********test_homePageTitle************
+2021-10-05 17:46:51,198 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 17:46:58,096 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 17:47:00,183 - root - INFO - **********Verifying Login Test************
+2021-10-05 17:47:17,369 - root - INFO - **********Verifying Login Test Passed************
+2021-10-05 17:50:46,235 - root - INFO - This is INFO Log
+2021-10-05 17:50:48,822 - root - INFO - **********test_homePageTitle************
+2021-10-05 17:50:48,824 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 17:50:55,130 - root - INFO - **********HomePageTitleTest is Passed************
+
+2021-10-05 17:50:57,496 - root - INFO - **********Verifying Login Test************
+2021-10-05 17:51:13,489 - root - INFO - **********Verifying Login Test Passed************
+2021-10-05 17:51:38,308 - root - INFO - This is INFO Log
+2021-10-05 18:03:21,796 - root - INFO - This is INFO Log
+2021-10-05 18:03:38,540 - root - INFO - This is INFO Log
+2021-10-05 18:03:40,817 - root - INFO - **********test_homePageTitle************
+2021-10-05 18:03:40,818 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 18:03:46,652 - root - INFO - **********Verifying Login Test************
+2021-10-05 18:03:57,468 - root - INFO - This is INFO Log
+2021-10-05 18:05:04,594 - root - INFO - **********Verifying Login Test************
+2021-10-05 18:05:12,209 - root - INFO - This is INFO Log
+2021-10-05 18:05:32,462 - root - INFO - **********test_homePageTitle************
+2021-10-05 18:05:32,462 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 18:05:43,556 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 18:05:55,976 - root - INFO - **********Verifying Login Test************
+2021-10-05 18:06:17,260 - root - INFO - **********Verifying Login Test Passed************
+2021-10-05 18:09:23,184 - root - INFO - This is INFO Log
+2021-10-05 18:09:43,503 - root - INFO - **********test_homePageTitle************
+2021-10-05 18:09:43,503 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 18:09:51,497 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 18:09:54,811 - root - INFO - **********Verifying Login Test************
+2021-10-05 18:10:32,496 - root - INFO - This is INFO Log
+2021-10-05 18:10:36,010 - root - INFO - **********test_homePageTitle************
+2021-10-05 18:10:36,010 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 18:10:41,113 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 18:10:44,814 - root - INFO - **********Verifying Login Test************
+2021-10-05 18:14:33,467 - root - INFO - This is INFO Log
+2021-10-05 18:14:36,202 - root - INFO - **********test_homePageTitle************
+2021-10-05 18:14:36,203 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 18:14:40,521 - root - INFO - **********Verifying Login Test************
+2021-10-05 18:16:29,985 - root - INFO - This is INFO Log
+2021-10-05 18:16:34,676 - root - INFO - **********test_homePageTitle************
+2021-10-05 18:16:34,676 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 18:25:41,757 - root - INFO - This is INFO Log
+2021-10-05 18:25:44,331 - root - INFO - **********test_homePageTitle************
+2021-10-05 18:25:44,331 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 18:25:48,233 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 18:25:50,979 - root - INFO - **********Verifying Login Test************
+2021-10-05 18:26:19,898 - root - INFO - This is INFO Log
+2021-10-05 18:26:22,542 - root - INFO - **********test_homePageTitle************
+2021-10-05 18:26:22,542 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 18:26:27,189 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 18:26:30,303 - root - INFO - **********Verifying Login Test************
+2021-10-05 19:16:24,450 - root - INFO - This is INFO Log
+2021-10-05 19:16:27,075 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:16:27,076 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:16:34,590 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 19:16:36,858 - root - INFO - **********Verifying Login Test************
+2021-10-05 19:17:01,948 - root - INFO - This is INFO Log
+2021-10-05 19:17:05,227 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:17:05,227 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:17:07,859 - root - ERROR - **********HomePageTitleTest is Failed************
+2021-10-05 19:17:11,323 - root - INFO - **********Verifying Login Test************
+2021-10-05 19:18:19,952 - root - INFO - This is INFO Log
+2021-10-05 19:18:23,061 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:18:23,061 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:18:27,876 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 19:18:30,907 - root - INFO - **********Verifying Login Test************
+2021-10-05 19:21:44,685 - root - INFO - This is INFO Log
+2021-10-05 19:21:48,357 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:21:48,357 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:21:52,779 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 19:21:56,154 - root - INFO - **********Verifying Login Test************
+2021-10-05 19:22:24,313 - root - INFO - This is INFO Log
+2021-10-05 19:22:27,704 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:22:27,704 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:22:31,684 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 19:22:35,216 - root - INFO - **********Verifying Login Test************
+2021-10-05 19:25:01,740 - root - INFO - This is INFO Log
+2021-10-05 19:25:06,817 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:25:06,817 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:25:11,771 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 19:25:15,420 - root - INFO - **********Verifying Login Test************
+2021-10-05 19:25:37,568 - root - INFO - **********Verifying Login Test Passed************
+2021-10-05 19:26:30,962 - root - INFO - This is INFO Log
+2021-10-05 19:26:34,777 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:26:34,777 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:26:39,465 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 19:26:42,592 - root - INFO - **********Verifying Login Test************
+2021-10-05 19:27:50,207 - root - INFO - This is INFO Log
+2021-10-05 19:27:53,443 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:27:53,444 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:27:57,222 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 19:28:00,414 - root - INFO - **********Verifying Login Test************
+2021-10-05 19:29:01,979 - root - INFO - This is INFO Log
+2021-10-05 19:31:54,094 - root - INFO - This is INFO Log
+2021-10-05 19:31:57,424 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:31:57,424 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:35:01,120 - root - INFO - This is INFO Log
+2021-10-05 19:35:04,620 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:35:04,620 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:37:22,090 - root - INFO - This is INFO Log
+2021-10-05 19:37:24,940 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:37:24,940 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:40:09,346 - root - INFO - **********Verifying Login Test************
+2021-10-05 19:43:34,933 - root - INFO - This is INFO Log
+2021-10-05 19:43:39,476 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:43:39,477 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:43:49,351 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 19:43:52,053 - root - INFO - **********Verifying Login Test************
+2021-10-05 19:44:11,529 - root - INFO - **********Verifying Login Test Passed************
+2021-10-05 19:44:37,340 - root - INFO - This is INFO Log
+2021-10-05 19:44:39,940 - root - INFO - **********test_homePageTitle************
+2021-10-05 19:44:39,941 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 19:49:43,076 - root - INFO - **********Verifying Login Test************
+2021-10-05 21:32:19,341 - root - INFO - This is INFO Log
+2021-10-05 21:32:22,973 - root - INFO - **********test_homePageTitle************
+2021-10-05 21:32:22,973 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 21:33:59,770 - root - INFO - This is INFO Log
+2021-10-05 21:34:03,631 - root - INFO - **********test_homePageTitle************
+2021-10-05 21:34:03,631 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 21:34:09,440 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 21:34:12,136 - root - INFO - **********Verifying Login Test************
+2021-10-05 21:34:58,992 - root - INFO - This is INFO Log
+2021-10-05 21:35:01,525 - root - INFO - **********test_homePageTitle************
+2021-10-05 21:35:01,525 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 21:35:07,224 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 21:35:09,995 - root - INFO - **********Verifying Login Test************
+2021-10-05 21:35:25,023 - root - INFO - **********Verifying Login Test Passed************
+2021-10-05 21:38:08,008 - root - INFO - This is INFO Log
+2021-10-05 21:38:08,318 - root - INFO - This is INFO Log
+2021-10-05 21:38:11,488 - root - INFO - **********test_homePageTitle************
+2021-10-05 21:38:11,488 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 21:38:13,316 - root - INFO - **********Verifying Login Test************
+2021-10-05 21:38:21,738 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 21:38:43,699 - root - INFO - **********Verifying Login Test Passed************
+2021-10-05 21:49:37,726 - root - INFO - This is INFO Log
+2021-10-05 21:49:37,958 - root - INFO - This is INFO Log
+2021-10-05 21:49:41,362 - root - INFO - **********test_homePageTitle************
+2021-10-05 21:49:41,362 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 21:49:42,626 - root - INFO - **********Verifying Login Test************
+2021-10-05 21:49:48,298 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 21:49:59,181 - root - INFO - **********Verifying Login Test Passed************
+2021-10-05 21:54:56,284 - root - INFO - This is INFO Log
+2021-10-05 21:54:56,584 - root - INFO - This is INFO Log
+2021-10-05 21:55:02,880 - root - INFO - **********test_homePageTitle************
+2021-10-05 21:55:02,880 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 21:55:04,094 - root - INFO - **********Verifying Login Test************
+2021-10-05 21:55:08,605 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 21:55:21,254 - root - INFO - **********Verifying Login Test Passed************
+2021-10-05 22:08:24,050 - root - INFO - This is INFO Log
+2021-10-05 22:08:24,402 - root - INFO - This is INFO Log
+2021-10-05 22:08:27,423 - root - INFO - **********Verifying Login Test************
+2021-10-05 22:08:28,639 - root - INFO - **********test_homePageTitle************
+2021-10-05 22:08:28,639 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 22:08:35,668 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 22:08:47,644 - root - INFO - **********Verifying Login Test Passed************
+2021-10-05 22:32:56,815 - root - INFO - This is INFO Log
+2021-10-05 22:32:57,135 - root - INFO - This is INFO Log
+2021-10-05 22:33:01,186 - root - INFO - **********Verifying Login Test************
+2021-10-05 22:35:39,671 - root - INFO - This is INFO Log
+2021-10-05 22:35:42,201 - root - INFO - ************test_login_ddt************
+2021-10-05 22:35:42,201 - root - INFO - **********Verifying Login ddt Test************
+2021-10-05 22:36:04,201 - root - INFO - ****Passed****
+2021-10-05 22:40:20,831 - root - INFO - This is INFO Log
+2021-10-05 22:40:24,356 - root - INFO - ************test_login_ddt************
+2021-10-05 22:40:24,356 - root - INFO - **********Verifying Login ddt Test************
+2021-10-05 22:40:44,222 - root - INFO - ****Passed****
+2021-10-05 22:41:38,151 - root - INFO - This is INFO Log
+2021-10-05 22:41:41,566 - root - INFO - ************test_login_ddt************
+2021-10-05 22:41:41,566 - root - INFO - **********Verifying Login ddt Test************
+2021-10-05 22:42:04,622 - root - INFO - ****Passed****
+2021-10-05 22:45:40,314 - root - INFO - This is INFO Log
+2021-10-05 22:45:43,380 - root - INFO - ************test_login_ddt************
+2021-10-05 22:45:43,380 - root - INFO - **********Verifying Login ddt Test************
+2021-10-05 22:48:58,755 - root - INFO - This is INFO Log
+2021-10-05 22:49:01,445 - root - INFO - ************test_login_ddt************
+2021-10-05 22:49:01,445 - root - INFO - **********Verifying Login ddt Test************
+2021-10-05 22:49:32,249 - root - INFO - ****Passed****
+2021-10-05 22:51:21,299 - root - INFO - This is INFO Log
+2021-10-05 22:51:24,540 - root - INFO - ************test_login_ddt************
+2021-10-05 22:51:24,540 - root - INFO - **********Verifying Login ddt Test************
+2021-10-05 22:53:52,142 - root - INFO - This is INFO Log
+2021-10-05 22:53:54,696 - root - INFO - ************test_login_ddt************
+2021-10-05 22:53:54,696 - root - INFO - **********Verifying Login ddt Test************
+2021-10-05 22:55:26,161 - root - INFO - This is INFO Log
+2021-10-05 22:55:28,471 - root - INFO - **********test_homePageTitle************
+2021-10-05 22:55:28,471 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 22:55:36,542 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 22:55:38,649 - root - INFO - **********Verifying Login Test************
+2021-10-05 22:56:47,479 - root - INFO - This is INFO Log
+2021-10-05 22:56:49,927 - root - INFO - **********test_homePageTitle************
+2021-10-05 22:56:49,927 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 22:56:57,178 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 22:56:59,257 - root - INFO - **********Verifying Login Test************
+2021-10-05 22:58:54,663 - root - INFO - This is INFO Log
+2021-10-05 22:58:57,489 - root - INFO - **********test_homePageTitle************
+2021-10-05 22:58:57,497 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 22:59:07,084 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 22:59:09,395 - root - INFO - **********Verifying Login Test************
+2021-10-05 23:00:05,314 - root - INFO - This is INFO Log
+2021-10-05 23:00:07,764 - root - INFO - **********test_homePageTitle************
+2021-10-05 23:00:07,764 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 23:00:14,410 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 23:00:16,635 - root - INFO - **********Verifying Login Test************
+2021-10-05 23:02:08,199 - root - INFO - This is INFO Log
+2021-10-05 23:02:10,664 - root - INFO - **********test_homePageTitle************
+2021-10-05 23:02:10,664 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 23:02:13,945 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 23:02:16,323 - root - INFO - **********Verifying Login Test************
+2021-10-05 23:04:07,267 - root - INFO - This is INFO Log
+2021-10-05 23:04:09,431 - root - INFO - **********test_homePageTitle************
+2021-10-05 23:04:09,431 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 23:04:19,011 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 23:04:21,176 - root - INFO - **********Verifying Login Test************
+2021-10-05 23:08:19,988 - root - INFO - This is INFO Log
+2021-10-05 23:08:22,716 - root - INFO - **********test_homePageTitle************
+2021-10-05 23:08:22,716 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 23:08:28,988 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 23:08:31,579 - root - INFO - **********Verifying Login Test************
+2021-10-05 23:09:38,003 - root - INFO - This is INFO Log
+2021-10-05 23:09:40,938 - root - INFO - **********test_homePageTitle************
+2021-10-05 23:09:40,938 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 23:09:44,144 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 23:09:46,933 - root - INFO - **********Verifying Login Test************
+2021-10-05 23:13:32,624 - root - INFO - This is INFO Log
+2021-10-05 23:13:35,584 - root - INFO - **********test_homePageTitle************
+2021-10-05 23:13:35,585 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 23:13:41,979 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 23:13:44,536 - root - INFO - **********Verifying Login Test************
+2021-10-05 23:14:28,144 - root - INFO - This is INFO Log
+2021-10-05 23:14:30,939 - root - INFO - **********test_homePageTitle************
+2021-10-05 23:14:30,939 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 23:14:34,499 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 23:14:37,219 - root - INFO - **********Verifying Login Test************
+2021-10-05 23:16:33,484 - root - INFO - This is INFO Log
+2021-10-05 23:16:36,429 - root - INFO - **********test_homePageTitle************
+2021-10-05 23:16:36,429 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 23:16:43,154 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 23:16:45,705 - root - INFO - **********Verifying Login Test************
+2021-10-05 23:20:24,375 - root - INFO - This is INFO Log
+2021-10-05 23:20:28,442 - root - INFO - **********test_homePageTitle************
+2021-10-05 23:20:28,450 - root - INFO - **********Verifying HomePage Title************
+2021-10-05 23:20:35,878 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-05 23:20:39,254 - root - INFO - **********Verifying Login Test************
+2021-10-06 10:48:36,555 - root - INFO - This is INFO Log
+2021-10-06 10:48:39,717 - root - INFO - **********test_homePageTitle************
+2021-10-06 10:48:39,718 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 10:48:51,733 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 10:48:54,153 - root - INFO - **********Verifying Login Test************
+2021-10-06 10:58:39,089 - root - INFO - This is INFO Log
+2021-10-06 10:58:41,988 - root - INFO - **********test_homePageTitle************
+2021-10-06 10:58:41,988 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 10:58:54,765 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 10:58:57,435 - root - INFO - **********Verifying Login Test************
+2021-10-06 10:59:50,516 - root - INFO - This is INFO Log
+2021-10-06 10:59:53,349 - root - INFO - **********test_homePageTitle************
+2021-10-06 10:59:53,350 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:00:04,578 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:00:07,120 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:09:04,968 - root - INFO - This is INFO Log
+2021-10-06 11:09:09,222 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:09:09,223 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:09:15,239 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:09:18,191 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:10:47,492 - root - INFO - This is INFO Log
+2021-10-06 11:10:50,769 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:10:50,772 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:11:01,063 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:11:04,328 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:15:59,621 - root - INFO - This is INFO Log
+2021-10-06 11:16:02,189 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:16:02,190 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:16:09,161 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:16:11,532 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:18:50,945 - root - INFO - This is INFO Log
+2021-10-06 11:18:53,641 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:18:53,641 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:19:00,105 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:19:02,148 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:20:32,883 - root - INFO - This is INFO Log
+2021-10-06 11:20:35,140 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:20:35,140 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:20:44,468 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:20:47,809 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:23:08,794 - root - INFO - This is INFO Log
+2021-10-06 11:23:10,964 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:23:10,965 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:23:21,004 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:23:23,221 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:30:00,612 - root - INFO - This is INFO Log
+2021-10-06 11:30:02,807 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:30:02,808 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:30:12,236 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:30:14,304 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:31:08,756 - root - INFO - This is INFO Log
+2021-10-06 11:31:10,814 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:31:10,815 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:31:21,320 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:31:23,401 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:32:04,685 - root - INFO - This is INFO Log
+2021-10-06 11:32:06,786 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:32:06,787 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:32:13,490 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:32:15,572 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:33:22,226 - root - INFO - This is INFO Log
+2021-10-06 11:33:24,383 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:33:24,383 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:33:29,539 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:33:31,798 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:37:22,951 - root - INFO - This is INFO Log
+2021-10-06 11:37:25,436 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:37:25,437 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:37:36,315 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:37:38,566 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:37:38,566 - root - INFO - **********Login Test Started************
+2021-10-06 11:38:51,523 - root - INFO - This is INFO Log
+2021-10-06 11:38:53,863 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:38:53,863 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:39:00,042 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:39:02,461 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:39:02,462 - root - INFO - **********Login Test Started************
+2021-10-06 11:43:11,971 - root - INFO - This is INFO Log
+2021-10-06 11:43:14,625 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:43:14,626 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:43:21,512 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:43:24,102 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:43:24,103 - root - INFO - **********Login Test Started************
+2021-10-06 11:44:14,336 - root - INFO - This is INFO Log
+2021-10-06 11:44:16,718 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:44:16,719 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:44:27,652 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:44:29,949 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:44:29,950 - root - INFO - **********Login Test Started************
+2021-10-06 11:45:32,576 - root - INFO - This is INFO Log
+2021-10-06 11:45:35,152 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:45:35,153 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:45:39,540 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:45:41,649 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:45:41,650 - root - INFO - **********Login Test Started************
+2021-10-06 11:47:30,765 - root - INFO - This is INFO Log
+2021-10-06 11:47:33,087 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:47:33,087 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:47:37,067 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:47:39,331 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:47:39,332 - root - INFO - **********Login Test Started************
+2021-10-06 11:49:16,433 - root - INFO - This is INFO Log
+2021-10-06 11:49:18,559 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:49:18,560 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:49:24,068 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:49:26,213 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:49:26,213 - root - INFO - **********Login Test Started************
+2021-10-06 11:50:54,723 - root - INFO - This is INFO Log
+2021-10-06 11:50:56,827 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:50:56,828 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:51:06,099 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:51:08,295 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:51:08,296 - root - INFO - **********Login Test Started************
+2021-10-06 11:53:08,893 - root - INFO - This is INFO Log
+2021-10-06 11:53:11,113 - root - INFO - **********test_homePageTitle************
+2021-10-06 11:53:11,113 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 11:53:17,043 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 11:53:19,168 - root - INFO - **********Verifying Login Test************
+2021-10-06 11:53:19,169 - root - INFO - **********Login Test Started************
+2021-10-06 12:53:04,000 - root - INFO - This is INFO Log
+2021-10-06 12:53:06,836 - root - INFO - **********test_homePageTitle************
+2021-10-06 12:53:06,836 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 12:53:13,885 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 12:53:16,221 - root - INFO - **********Verifying Login Test************
+2021-10-06 12:53:16,221 - root - INFO - **********Login Test Started************
+2021-10-06 12:53:49,728 - root - INFO - This is INFO Log
+2021-10-06 12:53:51,966 - root - INFO - **********test_homePageTitle************
+2021-10-06 12:53:51,966 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 12:54:01,890 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 12:54:04,064 - root - INFO - **********Verifying Login Test************
+2021-10-06 12:54:04,064 - root - INFO - **********Login Test Started************
+2021-10-06 12:55:59,971 - root - INFO - This is INFO Log
+2021-10-06 12:56:02,606 - root - INFO - **********test_homePageTitle************
+2021-10-06 12:56:02,606 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 12:56:13,661 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 12:56:15,775 - root - INFO - **********Verifying Login Test************
+2021-10-06 12:57:17,653 - root - INFO - This is INFO Log
+2021-10-06 12:57:20,190 - root - INFO - **********test_homePageTitle************
+2021-10-06 12:57:20,190 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 12:57:27,267 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 12:57:29,660 - root - INFO - **********Verifying Login Test************
+2021-10-06 12:58:41,000 - root - INFO - This is INFO Log
+2021-10-06 12:58:43,443 - root - INFO - **********test_homePageTitle************
+2021-10-06 12:58:43,443 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 12:58:49,656 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 12:58:51,999 - root - INFO - **********Verifying Login Test************
+2021-10-06 13:01:08,172 - root - INFO - This is INFO Log
+2021-10-06 13:01:10,930 - root - INFO - **********test_homePageTitle************
+2021-10-06 13:01:10,930 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 13:01:18,289 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 13:01:20,499 - root - INFO - **********Verifying Login Test************
+2021-10-06 13:04:33,607 - root - INFO - This is INFO Log
+2021-10-06 13:05:14,671 - root - INFO - **********test_homePageTitle************
+2021-10-06 13:05:14,671 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 13:05:28,847 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 13:05:41,698 - root - INFO - **********Verifying Login Test************
+2021-10-06 13:11:26,701 - root - INFO - This is INFO Log
+2021-10-06 13:12:11,011 - root - INFO - This is INFO Log
+2021-10-06 13:12:14,016 - root - INFO - **********test_homePageTitle************
+2021-10-06 13:12:14,016 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 13:12:22,423 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 13:12:25,345 - root - INFO - **********Verifying Login Test************
+2021-10-06 13:12:46,066 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 13:13:30,754 - root - INFO - This is INFO Log
+2021-10-06 13:13:37,197 - root - INFO - **********test_homePageTitle************
+2021-10-06 13:13:37,197 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 13:16:35,056 - root - INFO - This is INFO Log
+2021-10-06 13:16:38,644 - root - INFO - **********test_homePageTitle************
+2021-10-06 13:16:38,644 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 13:17:02,061 - root - INFO - This is INFO Log
+2021-10-06 13:17:04,478 - root - INFO - **********test_homePageTitle************
+2021-10-06 13:17:04,478 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 13:17:08,318 - root - ERROR - **********HomePageTitleTest is Failed************
+2021-10-06 13:17:11,087 - root - INFO - **********Verifying Login Test************
+2021-10-06 13:18:07,007 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 13:19:16,583 - root - INFO - This is INFO Log
+2021-10-06 13:19:18,950 - root - INFO - **********test_homePageTitle************
+2021-10-06 13:19:18,950 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 13:19:28,065 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 13:19:30,445 - root - INFO - **********Verifying Login Test************
+2021-10-06 13:19:47,022 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 13:20:00,365 - root - INFO - This is INFO Log
+2021-10-06 13:20:14,646 - root - INFO - **********test_homePageTitle************
+2021-10-06 13:20:14,646 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 13:20:20,840 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 13:20:33,409 - root - INFO - **********Verifying Login Test************
+2021-10-06 13:20:45,271 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 17:07:47,886 - root - INFO - This is INFO Log
+2021-10-06 17:07:51,030 - root - INFO - **********test_homePageTitle************
+2021-10-06 17:07:51,030 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 17:07:58,561 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 17:08:01,212 - root - INFO - **********Verifying Login Test************
+2021-10-06 17:08:17,175 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 17:16:44,491 - root - INFO - This is INFO Log
+2021-10-06 17:16:44,795 - root - INFO - This is INFO Log
+2021-10-06 17:16:51,610 - root - INFO - **********test_homePageTitle************
+2021-10-06 17:16:51,610 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 17:16:51,994 - root - INFO - **********Verifying Login Test************
+2021-10-06 17:17:13,507 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 17:17:46,912 - root - ERROR - **********Verifying Login Test Failed************
+2021-10-06 17:32:34,836 - root - INFO - This is INFO Log
+2021-10-06 17:32:38,540 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:32:38,541 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:33:01,548 - root - INFO - **********Login DDT test Passed************
+2021-10-06 17:36:22,850 - root - INFO - This is INFO Log
+2021-10-06 17:36:23,085 - root - INFO - This is INFO Log
+2021-10-06 17:36:25,503 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:36:25,504 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:36:48,905 - root - INFO - **********Login DDT test Passed************
+2021-10-06 17:40:11,273 - root - INFO - This is INFO Log
+2021-10-06 17:40:11,612 - root - INFO - This is INFO Log
+2021-10-06 17:40:14,777 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:40:14,778 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:40:53,296 - root - INFO - This is INFO Log
+2021-10-06 17:40:53,452 - root - INFO - This is INFO Log
+2021-10-06 17:40:55,826 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:40:55,826 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:41:17,704 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 17:42:08,756 - root - INFO - This is INFO Log
+2021-10-06 17:42:09,022 - root - INFO - This is INFO Log
+2021-10-06 17:42:11,507 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:42:11,507 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:43:12,130 - root - INFO - This is INFO Log
+2021-10-06 17:43:12,318 - root - INFO - This is INFO Log
+2021-10-06 17:43:14,985 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:43:14,985 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:45:12,967 - root - INFO - This is INFO Log
+2021-10-06 17:45:13,405 - root - INFO - This is INFO Log
+2021-10-06 17:45:15,900 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:45:15,901 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:46:54,020 - root - INFO - This is INFO Log
+2021-10-06 17:46:54,232 - root - INFO - This is INFO Log
+2021-10-06 17:46:56,841 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:46:56,842 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:47:19,243 - root - INFO - **********Login DDT test Passed************
+2021-10-06 17:48:03,396 - root - INFO - This is INFO Log
+2021-10-06 17:48:03,659 - root - INFO - This is INFO Log
+2021-10-06 17:48:07,875 - root - INFO - **********test_homePageTitle************
+2021-10-06 17:48:07,876 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 17:48:07,876 - root - INFO - **********Verifying Login Test************
+2021-10-06 17:48:17,081 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 17:48:23,956 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 17:50:47,179 - root - INFO - This is INFO Log
+2021-10-06 17:50:47,405 - root - INFO - This is INFO Log
+2021-10-06 17:50:49,621 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:50:49,621 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:51:52,513 - root - INFO - This is INFO Log
+2021-10-06 17:51:52,722 - root - INFO - This is INFO Log
+2021-10-06 17:51:54,961 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:51:54,961 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:52:17,059 - root - INFO - **********Login DDT test Passed************
+2021-10-06 17:53:23,573 - root - INFO - This is INFO Log
+2021-10-06 17:53:23,738 - root - INFO - This is INFO Log
+2021-10-06 17:53:25,925 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:53:25,928 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:53:46,302 - root - INFO - **********Login DDT test Passed************
+2021-10-06 17:56:06,580 - root - INFO - This is INFO Log
+2021-10-06 17:56:06,778 - root - INFO - This is INFO Log
+2021-10-06 17:56:08,810 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:56:08,811 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:56:28,160 - root - INFO - **********Login DDT test Passed************
+2021-10-06 17:58:36,393 - root - INFO - This is INFO Log
+2021-10-06 17:58:36,610 - root - INFO - This is INFO Log
+2021-10-06 17:58:38,785 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 17:58:38,786 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 17:58:59,362 - root - INFO - **********Login DDT test Passed************
+2021-10-06 18:02:04,420 - root - INFO - This is INFO Log
+2021-10-06 18:02:04,603 - root - INFO - This is INFO Log
+2021-10-06 18:02:06,615 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:02:06,616 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:02:26,451 - root - INFO - **********Login DDT test Passed************
+2021-10-06 18:04:05,552 - root - INFO - This is INFO Log
+2021-10-06 18:04:05,708 - root - INFO - This is INFO Log
+2021-10-06 18:04:07,836 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:04:07,837 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:08:34,770 - root - INFO - This is INFO Log
+2021-10-06 18:08:35,025 - root - INFO - This is INFO Log
+2021-10-06 18:08:37,361 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:08:37,362 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:08:57,711 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 18:09:33,513 - root - INFO - This is INFO Log
+2021-10-06 18:09:35,730 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:09:35,731 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:09:51,173 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 18:11:38,638 - root - INFO - This is INFO Log
+2021-10-06 18:11:40,734 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:11:40,734 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:12:02,004 - root - INFO - **********Login DDT test Passed************
+2021-10-06 18:12:43,042 - root - INFO - This is INFO Log
+2021-10-06 18:12:45,102 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:12:45,103 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:13:05,615 - root - INFO - **********Login DDT test Passed************
+2021-10-06 18:14:24,377 - root - INFO - This is INFO Log
+2021-10-06 18:14:26,493 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:14:26,494 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:14:42,733 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 18:16:01,619 - root - INFO - This is INFO Log
+2021-10-06 18:16:03,707 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:16:03,708 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:16:14,122 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 18:18:22,154 - root - INFO - This is INFO Log
+2021-10-06 18:18:24,491 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:18:24,492 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:18:39,830 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 18:20:18,309 - root - INFO - This is INFO Log
+2021-10-06 18:20:20,886 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:20:20,888 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:20:36,901 - root - INFO - **********Login DDT test Passed************
+2021-10-06 18:21:18,608 - root - INFO - This is INFO Log
+2021-10-06 18:21:20,926 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:21:20,927 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:21:33,296 - root - INFO - **********Login DDT test Passed************
+2021-10-06 18:24:30,849 - root - INFO - This is INFO Log
+2021-10-06 18:24:33,340 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:24:33,341 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:24:49,770 - root - INFO - **********Login DDT test Passed************
+2021-10-06 18:26:12,889 - root - INFO - This is INFO Log
+2021-10-06 18:26:15,323 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:26:15,324 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:26:20,956 - root - INFO - **********Login DDT test Passed************
+2021-10-06 18:27:39,201 - root - INFO - This is INFO Log
+2021-10-06 18:27:41,301 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:27:41,308 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:27:59,228 - root - INFO - **********Login DDT test Passed************
+2021-10-06 18:29:56,273 - root - INFO - This is INFO Log
+2021-10-06 18:29:58,355 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:29:58,356 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:31:25,539 - root - INFO - This is INFO Log
+2021-10-06 18:31:27,740 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:31:27,740 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:32:38,049 - root - INFO - This is INFO Log
+2021-10-06 18:32:40,475 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:32:40,476 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:34:24,768 - root - INFO - This is INFO Log
+2021-10-06 18:34:26,846 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:34:26,847 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:37:04,537 - root - INFO - This is INFO Log
+2021-10-06 18:37:06,970 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:37:06,970 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:38:21,728 - root - INFO - This is INFO Log
+2021-10-06 18:38:23,877 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 18:38:23,878 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 18:53:20,748 - root - INFO - This is INFO Log
+2021-10-06 18:53:23,411 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 18:53:41,153 - root - INFO - *************Login is Successful****************
+2021-10-06 18:53:41,153 - root - INFO - *************Start Add Customer Test************
+2021-10-06 18:53:52,833 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 18:54:08,230 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 18:54:08,230 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 18:54:09,650 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 18:54:09,790 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 18:58:04,042 - root - INFO - This is INFO Log
+2021-10-06 18:58:06,390 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 18:58:25,563 - root - INFO - *************Login is Successful****************
+2021-10-06 18:58:25,563 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 18:58:30,327 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 18:58:36,087 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 18:59:40,983 - root - INFO - This is INFO Log
+2021-10-06 18:59:43,633 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 18:59:57,173 - root - INFO - *************Login is Successful****************
+2021-10-06 18:59:57,173 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:02:36,007 - root - INFO - This is INFO Log
+2021-10-06 19:02:39,042 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:02:57,426 - root - INFO - *************Login is Successful****************
+2021-10-06 19:02:57,426 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:03:02,368 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 19:03:08,243 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 19:03:35,867 - root - INFO - This is INFO Log
+2021-10-06 19:03:38,252 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:03:57,385 - root - INFO - *************Login is Successful****************
+2021-10-06 19:03:57,385 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:04:01,576 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 19:04:08,076 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 19:05:59,404 - root - INFO - This is INFO Log
+2021-10-06 19:06:02,153 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:06:20,450 - root - INFO - *************Login is Successful****************
+2021-10-06 19:06:20,450 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:06:24,576 - root - INFO - *************Searching Customer By Name************
+2021-10-06 19:06:36,356 - root - INFO - *************Test_005_Search Customer By Name is finished************
+2021-10-06 19:07:01,705 - root - INFO - This is INFO Log
+2021-10-06 19:07:01,721 - root - INFO - This is INFO Log
+2021-10-06 19:07:01,721 - root - INFO - This is INFO Log
+2021-10-06 19:07:02,783 - root - INFO - This is INFO Log
+2021-10-06 19:07:02,783 - root - INFO - This is INFO Log
+2021-10-06 19:07:02,783 - root - INFO - This is INFO Log
+2021-10-06 19:07:02,814 - root - INFO - This is INFO Log
+2021-10-06 19:07:02,814 - root - INFO - This is INFO Log
+2021-10-06 19:07:02,814 - root - INFO - This is INFO Log
+2021-10-06 19:07:02,814 - root - INFO - This is INFO Log
+2021-10-06 19:07:02,814 - root - INFO - This is INFO Log
+2021-10-06 19:07:02,814 - root - INFO - This is INFO Log
+2021-10-06 19:07:02,814 - root - INFO - This is INFO Log
+2021-10-06 19:07:02,814 - root - INFO - This is INFO Log
+2021-10-06 19:07:02,814 - root - INFO - This is INFO Log
+2021-10-06 19:07:05,160 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:07:05,160 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:07:05,160 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:07:05,160 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:07:05,160 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:07:19,442 - root - INFO - *************Login is Successful****************
+2021-10-06 19:07:19,442 - root - INFO - *************Login is Successful****************
+2021-10-06 19:07:19,442 - root - INFO - *************Login is Successful****************
+2021-10-06 19:07:19,442 - root - INFO - *************Login is Successful****************
+2021-10-06 19:07:19,442 - root - INFO - *************Login is Successful****************
+2021-10-06 19:07:19,443 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:07:19,443 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:07:19,443 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:07:19,443 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:07:19,443 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:07:29,492 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:07:29,492 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:07:29,492 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:07:29,492 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:07:29,492 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:07:43,341 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:07:43,341 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:07:43,341 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:07:43,341 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:07:43,341 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:07:43,341 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:07:43,341 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:07:43,341 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:07:43,341 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:07:43,341 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:07:44,868 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:07:44,868 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:07:44,868 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:07:44,868 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:07:44,868 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:07:45,127 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:07:45,127 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:07:45,127 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:07:45,127 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:07:45,127 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:07:48,431 - root - INFO - **********test_homePageTitle************
+2021-10-06 19:07:48,431 - root - INFO - **********test_homePageTitle************
+2021-10-06 19:07:48,431 - root - INFO - **********test_homePageTitle************
+2021-10-06 19:07:48,431 - root - INFO - **********test_homePageTitle************
+2021-10-06 19:07:48,431 - root - INFO - **********test_homePageTitle************
+2021-10-06 19:07:48,433 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 19:07:48,433 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 19:07:48,433 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 19:07:48,433 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 19:07:48,433 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 19:07:54,941 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 19:07:54,941 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 19:07:54,941 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 19:07:54,941 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 19:07:54,941 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 19:07:57,516 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:07:57,516 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:07:57,516 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:07:57,516 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:07:57,516 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:08:12,306 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:08:12,306 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:08:12,306 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:08:12,306 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:08:12,306 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:08:14,894 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 19:08:14,894 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 19:08:14,894 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 19:08:14,894 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 19:08:14,894 - root - INFO - **********Test_002_Login_ddt************
+2021-10-06 19:08:14,895 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 19:08:14,895 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 19:08:14,895 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 19:08:14,895 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 19:08:14,895 - root - INFO - **********Verifying Login ddt Test************
+2021-10-06 19:08:36,756 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:08:36,756 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:08:36,756 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:08:36,756 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:08:36,756 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:08:51,787 - root - INFO - *************Login is Successful****************
+2021-10-06 19:08:51,787 - root - INFO - *************Login is Successful****************
+2021-10-06 19:08:51,787 - root - INFO - *************Login is Successful****************
+2021-10-06 19:08:51,787 - root - INFO - *************Login is Successful****************
+2021-10-06 19:08:51,787 - root - INFO - *************Login is Successful****************
+2021-10-06 19:08:51,787 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:08:51,787 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:08:51,787 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:08:51,787 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:08:51,787 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:08:56,064 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 19:08:56,064 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 19:08:56,064 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 19:08:56,064 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 19:08:56,064 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 19:09:02,606 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 19:09:02,606 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 19:09:02,606 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 19:09:02,606 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 19:09:02,606 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 19:09:05,545 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:09:05,545 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:09:05,545 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:09:05,545 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:09:05,545 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:09:26,000 - root - INFO - *************Login is Successful****************
+2021-10-06 19:09:26,000 - root - INFO - *************Login is Successful****************
+2021-10-06 19:09:26,000 - root - INFO - *************Login is Successful****************
+2021-10-06 19:09:26,000 - root - INFO - *************Login is Successful****************
+2021-10-06 19:09:26,000 - root - INFO - *************Login is Successful****************
+2021-10-06 19:09:26,000 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:09:26,000 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:09:26,000 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:09:26,000 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:09:26,000 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:09:31,075 - root - INFO - *************Searching Customer By Name************
+2021-10-06 19:09:31,075 - root - INFO - *************Searching Customer By Name************
+2021-10-06 19:09:31,075 - root - INFO - *************Searching Customer By Name************
+2021-10-06 19:09:31,075 - root - INFO - *************Searching Customer By Name************
+2021-10-06 19:09:31,075 - root - INFO - *************Searching Customer By Name************
+2021-10-06 19:09:42,951 - root - INFO - *************Test_005_Search Customer By Name is finished************
+2021-10-06 19:09:42,951 - root - INFO - *************Test_005_Search Customer By Name is finished************
+2021-10-06 19:09:42,951 - root - INFO - *************Test_005_Search Customer By Name is finished************
+2021-10-06 19:09:42,951 - root - INFO - *************Test_005_Search Customer By Name is finished************
+2021-10-06 19:09:42,951 - root - INFO - *************Test_005_Search Customer By Name is finished************
+2021-10-06 19:19:25,132 - root - INFO - This is INFO Log
+2021-10-06 19:19:25,193 - root - INFO - This is INFO Log
+2021-10-06 19:19:25,193 - root - INFO - This is INFO Log
+2021-10-06 19:19:25,959 - root - INFO - This is INFO Log
+2021-10-06 19:19:25,959 - root - INFO - This is INFO Log
+2021-10-06 19:19:25,959 - root - INFO - This is INFO Log
+2021-10-06 19:19:26,046 - root - INFO - This is INFO Log
+2021-10-06 19:19:26,046 - root - INFO - This is INFO Log
+2021-10-06 19:19:26,046 - root - INFO - This is INFO Log
+2021-10-06 19:19:26,046 - root - INFO - This is INFO Log
+2021-10-06 19:19:26,100 - root - INFO - This is INFO Log
+2021-10-06 19:19:26,100 - root - INFO - This is INFO Log
+2021-10-06 19:19:26,100 - root - INFO - This is INFO Log
+2021-10-06 19:19:26,100 - root - INFO - This is INFO Log
+2021-10-06 19:19:26,100 - root - INFO - This is INFO Log
+2021-10-06 19:19:28,956 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:19:28,956 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:19:28,956 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:19:28,956 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:19:28,956 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:19:47,171 - root - INFO - *************Login is Successful****************
+2021-10-06 19:19:47,171 - root - INFO - *************Login is Successful****************
+2021-10-06 19:19:47,171 - root - INFO - *************Login is Successful****************
+2021-10-06 19:19:47,171 - root - INFO - *************Login is Successful****************
+2021-10-06 19:19:47,171 - root - INFO - *************Login is Successful****************
+2021-10-06 19:19:47,171 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:19:47,171 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:19:47,171 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:19:47,171 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:19:47,171 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:19:58,213 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:19:58,213 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:19:58,213 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:19:58,213 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:19:58,213 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:20:12,319 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:20:12,319 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:20:12,319 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:20:12,319 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:20:12,319 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:20:12,320 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:20:12,320 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:20:12,320 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:20:12,320 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:20:12,320 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:20:14,835 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:20:14,835 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:20:14,835 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:20:14,835 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:20:14,835 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:20:15,353 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:20:15,353 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:20:15,353 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:20:15,353 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:20:15,353 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:20:17,889 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:20:17,889 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:20:17,889 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:20:17,889 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:20:17,889 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:20:30,647 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:20:30,647 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:20:30,647 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:20:30,647 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:20:30,647 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:21:56,324 - root - INFO - This is INFO Log
+2021-10-06 19:21:56,346 - root - INFO - This is INFO Log
+2021-10-06 19:21:56,346 - root - INFO - This is INFO Log
+2021-10-06 19:21:57,022 - root - INFO - This is INFO Log
+2021-10-06 19:21:57,022 - root - INFO - This is INFO Log
+2021-10-06 19:21:57,022 - root - INFO - This is INFO Log
+2021-10-06 19:21:57,035 - root - INFO - This is INFO Log
+2021-10-06 19:21:57,035 - root - INFO - This is INFO Log
+2021-10-06 19:21:57,035 - root - INFO - This is INFO Log
+2021-10-06 19:21:57,035 - root - INFO - This is INFO Log
+2021-10-06 19:21:57,045 - root - INFO - This is INFO Log
+2021-10-06 19:21:57,045 - root - INFO - This is INFO Log
+2021-10-06 19:21:57,045 - root - INFO - This is INFO Log
+2021-10-06 19:21:57,045 - root - INFO - This is INFO Log
+2021-10-06 19:21:57,045 - root - INFO - This is INFO Log
+2021-10-06 19:21:59,712 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:21:59,712 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:21:59,712 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:21:59,712 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:21:59,712 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:22:17,738 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:22:17,738 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:22:17,738 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:22:17,738 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:22:17,738 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:23:39,292 - root - INFO - This is INFO Log
+2021-10-06 19:23:39,304 - root - INFO - This is INFO Log
+2021-10-06 19:23:39,304 - root - INFO - This is INFO Log
+2021-10-06 19:23:39,993 - root - INFO - This is INFO Log
+2021-10-06 19:23:39,993 - root - INFO - This is INFO Log
+2021-10-06 19:23:39,993 - root - INFO - This is INFO Log
+2021-10-06 19:23:40,006 - root - INFO - This is INFO Log
+2021-10-06 19:23:40,006 - root - INFO - This is INFO Log
+2021-10-06 19:23:40,006 - root - INFO - This is INFO Log
+2021-10-06 19:23:40,006 - root - INFO - This is INFO Log
+2021-10-06 19:23:40,017 - root - INFO - This is INFO Log
+2021-10-06 19:23:40,017 - root - INFO - This is INFO Log
+2021-10-06 19:23:40,017 - root - INFO - This is INFO Log
+2021-10-06 19:23:40,017 - root - INFO - This is INFO Log
+2021-10-06 19:23:40,017 - root - INFO - This is INFO Log
+2021-10-06 19:23:42,312 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:23:42,312 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:23:42,312 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:23:42,312 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:23:42,312 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:24:01,167 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:24:01,167 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:24:01,167 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:24:01,167 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:24:01,167 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:25:52,682 - root - INFO - This is INFO Log
+2021-10-06 19:25:52,682 - root - INFO - This is INFO Log
+2021-10-06 19:25:52,682 - root - INFO - This is INFO Log
+2021-10-06 19:25:53,323 - root - INFO - This is INFO Log
+2021-10-06 19:25:53,323 - root - INFO - This is INFO Log
+2021-10-06 19:25:53,323 - root - INFO - This is INFO Log
+2021-10-06 19:25:53,339 - root - INFO - This is INFO Log
+2021-10-06 19:25:53,339 - root - INFO - This is INFO Log
+2021-10-06 19:25:53,339 - root - INFO - This is INFO Log
+2021-10-06 19:25:53,339 - root - INFO - This is INFO Log
+2021-10-06 19:25:53,339 - root - INFO - This is INFO Log
+2021-10-06 19:25:53,339 - root - INFO - This is INFO Log
+2021-10-06 19:25:53,339 - root - INFO - This is INFO Log
+2021-10-06 19:25:53,339 - root - INFO - This is INFO Log
+2021-10-06 19:25:53,339 - root - INFO - This is INFO Log
+2021-10-06 19:25:55,552 - root - INFO - **********test_homePageTitle************
+2021-10-06 19:25:55,552 - root - INFO - **********test_homePageTitle************
+2021-10-06 19:25:55,552 - root - INFO - **********test_homePageTitle************
+2021-10-06 19:25:55,552 - root - INFO - **********test_homePageTitle************
+2021-10-06 19:25:55,552 - root - INFO - **********test_homePageTitle************
+2021-10-06 19:25:55,554 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 19:25:55,554 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 19:25:55,554 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 19:25:55,554 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 19:25:55,554 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 19:26:05,362 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 19:26:05,362 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 19:26:05,362 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 19:26:05,362 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 19:26:05,362 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 19:26:07,853 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:26:07,853 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:26:07,853 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:26:07,853 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:26:07,853 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:26:25,855 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:26:25,855 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:26:25,855 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:26:25,855 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:26:25,855 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:26:28,587 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:26:28,587 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:26:28,587 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:26:28,587 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:26:28,587 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:26:46,242 - root - INFO - *************Login is Successful****************
+2021-10-06 19:26:46,242 - root - INFO - *************Login is Successful****************
+2021-10-06 19:26:46,242 - root - INFO - *************Login is Successful****************
+2021-10-06 19:26:46,242 - root - INFO - *************Login is Successful****************
+2021-10-06 19:26:46,242 - root - INFO - *************Login is Successful****************
+2021-10-06 19:26:46,242 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:26:46,242 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:26:46,242 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:26:46,242 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:26:46,242 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:26:51,995 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 19:26:51,995 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 19:26:51,995 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 19:26:51,995 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 19:26:51,995 - root - INFO - *************Searching Customer By Email ID************
+2021-10-06 19:26:58,092 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 19:26:58,092 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 19:26:58,092 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 19:26:58,092 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 19:26:58,092 - root - INFO - *************Test_004_Search Customer By Email is finished************
+2021-10-06 19:27:04,650 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:27:04,650 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:27:04,650 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:27:04,650 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:27:04,650 - root - INFO - **********Test_004_Search Customer By Email************
+2021-10-06 19:27:23,755 - root - INFO - *************Login is Successful****************
+2021-10-06 19:27:23,755 - root - INFO - *************Login is Successful****************
+2021-10-06 19:27:23,755 - root - INFO - *************Login is Successful****************
+2021-10-06 19:27:23,755 - root - INFO - *************Login is Successful****************
+2021-10-06 19:27:23,755 - root - INFO - *************Login is Successful****************
+2021-10-06 19:27:23,755 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:27:23,755 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:27:23,755 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:27:23,755 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:27:23,755 - root - INFO - *************Start Search Customer By Email Test************
+2021-10-06 19:27:28,573 - root - INFO - *************Searching Customer By Name************
+2021-10-06 19:27:28,573 - root - INFO - *************Searching Customer By Name************
+2021-10-06 19:27:28,573 - root - INFO - *************Searching Customer By Name************
+2021-10-06 19:27:28,573 - root - INFO - *************Searching Customer By Name************
+2021-10-06 19:27:28,573 - root - INFO - *************Searching Customer By Name************
+2021-10-06 19:27:40,443 - root - INFO - *************Test_005_Search Customer By Name is finished************
+2021-10-06 19:27:40,443 - root - INFO - *************Test_005_Search Customer By Name is finished************
+2021-10-06 19:27:40,443 - root - INFO - *************Test_005_Search Customer By Name is finished************
+2021-10-06 19:27:40,443 - root - INFO - *************Test_005_Search Customer By Name is finished************
+2021-10-06 19:27:40,443 - root - INFO - *************Test_005_Search Customer By Name is finished************
+2021-10-06 19:33:41,811 - root - INFO - This is INFO Log
+2021-10-06 19:33:41,881 - root - INFO - This is INFO Log
+2021-10-06 19:33:41,881 - root - INFO - This is INFO Log
+2021-10-06 19:33:52,226 - root - INFO - This is INFO Log
+2021-10-06 19:33:52,226 - root - INFO - This is INFO Log
+2021-10-06 19:33:52,226 - root - INFO - This is INFO Log
+2021-10-06 19:33:52,312 - root - INFO - This is INFO Log
+2021-10-06 19:33:52,312 - root - INFO - This is INFO Log
+2021-10-06 19:33:52,312 - root - INFO - This is INFO Log
+2021-10-06 19:33:52,312 - root - INFO - This is INFO Log
+2021-10-06 19:33:52,360 - root - INFO - This is INFO Log
+2021-10-06 19:33:52,360 - root - INFO - This is INFO Log
+2021-10-06 19:33:52,360 - root - INFO - This is INFO Log
+2021-10-06 19:33:52,360 - root - INFO - This is INFO Log
+2021-10-06 19:33:52,360 - root - INFO - This is INFO Log
+2021-10-06 19:33:54,611 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:33:54,611 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:33:54,611 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:33:54,611 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:33:54,611 - root - INFO - **********Test_003_Add Customer************
+2021-10-06 19:34:14,493 - root - INFO - *************Login is Successful****************
+2021-10-06 19:34:14,493 - root - INFO - *************Login is Successful****************
+2021-10-06 19:34:14,493 - root - INFO - *************Login is Successful****************
+2021-10-06 19:34:14,493 - root - INFO - *************Login is Successful****************
+2021-10-06 19:34:14,493 - root - INFO - *************Login is Successful****************
+2021-10-06 19:34:14,494 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:34:14,494 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:34:14,494 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:34:14,494 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:34:14,494 - root - INFO - *************Start Add Customer Test************
+2021-10-06 19:34:25,047 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:34:25,047 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:34:25,047 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:34:25,047 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:34:25,047 - root - INFO - ***************Providing Customer Info*********
+2021-10-06 19:34:38,730 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:34:38,730 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:34:38,730 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:34:38,730 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:34:38,730 - root - INFO - ***********Saving Customer Info***************
+2021-10-06 19:34:38,731 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:34:38,731 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:34:38,731 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:34:38,731 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:34:38,731 - root - INFO - ***********Add Customer Validation Started************
+2021-10-06 19:34:40,270 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:34:40,270 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:34:40,270 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:34:40,270 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:34:40,270 - root - ERROR - *************Add Customer Test Failed************
+2021-10-06 19:34:40,481 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:34:40,481 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:34:40,481 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:34:40,481 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:34:40,481 - root - INFO - ************Ending Add Customer Page Test***********8
+2021-10-06 19:34:43,275 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:34:43,275 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:34:43,275 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:34:43,275 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:34:43,275 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:34:55,684 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:34:55,684 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:34:55,684 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:34:55,684 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:34:55,684 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 19:53:18,462 - root - INFO - This is INFO Log
+2021-10-06 19:53:21,140 - root - INFO - **********test_homePageTitle************
+2021-10-06 19:53:21,140 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 19:53:28,083 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 19:53:30,668 - root - INFO - **********Verifying Login Test************
+2021-10-06 19:53:47,733 - root - INFO - **********Verifying Login Test Passed************
+2021-10-06 20:58:02,353 - root - INFO - This is INFO Log
+2021-10-06 20:58:11,533 - root - INFO - **********test_homePageTitle************
+2021-10-06 20:58:11,533 - root - INFO - **********Verifying HomePage Title************
+2021-10-06 20:58:25,024 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-06 20:58:27,194 - root - INFO - **********Verifying Login Test************
+2021-10-06 20:58:47,981 - root - INFO - **********Verifying Login Test Passed************
+2021-10-08 18:20:41,082 - root - INFO - This is INFO Log
+2021-10-08 18:20:46,458 - root - INFO - **********test_homePageTitle************
+2021-10-08 18:20:46,459 - root - INFO - **********Verifying HomePage Title************
+2021-10-08 18:20:56,163 - root - INFO - **********HomePageTitleTest is Passed************
+2021-10-08 18:20:58,699 - root - INFO - **********Verifying Login Test************
+2021-10-08 18:21:16,772 - root - INFO - **********Verifying Login Test Passed************
